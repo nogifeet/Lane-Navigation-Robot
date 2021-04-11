@@ -26,9 +26,11 @@ lane_detection_check.py reads frame from camera, calculates steering angle, erro
 ![Alt Text](https://github.com/nogifeet/Lane-Navigation-Robot/blob/main/Resources/frame_1.gif)
 
 ##Video Link
+
 https://www.youtube.com/watch?v=Hv3kNVGPrSw
 
 ##Sources
+
 https://in.mathworks.com/videos/lane-following-robot-using-matlab-raspberry-pi-and-arduino-1570691075828.html
 
 https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c
